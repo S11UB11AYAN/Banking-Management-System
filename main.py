@@ -124,7 +124,7 @@ while choice_bank != 4:
             f.write("Date of Birth: " + date_of_birth+'\n')
             f.write("Age: "+age+'\n')
             f.write("Mobile Number: "+phone+'\n')
-            f.write("Adrress: "+address+'\n')
+            f.write("Address: "+address+'\n')
             f.write("Account Number: "+random_account_number+'\n')
             f.write("Generated PIN: " + pin+'\n')
             f.write("Bank balance: "+balanceSbi)
